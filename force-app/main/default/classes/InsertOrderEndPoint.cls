@@ -15,17 +15,10 @@ global with sharing class InsertOrderEndPoint {
         try {
             if(!ordersToInsertList.isEmpty()) {
                 insert ordersToInsertList;
+                RestContext.response.responseBody = Blob.valueOf('Ordem(ns) inserida(s) com sucesso! \n' + ordersToInsertList);
             }
         } catch (Exception e) {
             RestContext.response.responseBody = Blob.valueOf('Erro: ' + e.getMessage());
         }
-
-        /*
-            [
-                {"Name": "Pedido A", "Email__c": "pedidoA@gmail.com"},
-                {"Name": "Pedido B", "Email__c": "pedidoB@gmail.com"},
-                {"Name": "Pedido C", "Email__c": "pedidoC@gmail.com"}
-            ]
-         */
     }
 }

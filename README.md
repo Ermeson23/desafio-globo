@@ -1,18 +1,55 @@
-# Salesforce DX Project: Next Steps
+# ✨ Desafio Globo
+O presente documento tem o intuito de orientar os avaliadores a respeito da mentalidade empreendida para a resolução do desafio proposto.
+## 👤 Integrantes
+- Ermeson José Ribeiro
+  ( [github](https://github.com/Ermeson23) | [linkedin](linkedin.com/in/ermeson-ribeiro-a29121212/) )
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## 📄 Descrição
+O presente documento tem o intuito de fornecer uma visão geral aos avaliadores a respeito das ideias e da mentalidade empreendida para a resolução do desafio proposto.
 
-## How Do You Plan to Deploy Your Changes?
+## 🖇️ Visão Geral das Especificações 
+### 🖥️ Aplicativo  
+  - Início
+  - Contas
+  - Ordens
+  - Países
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## 🖼️ Objetos utilizados
+### 🖼️ Objetos Personalizados
+- Ordem
+- País
 
-## Configure Your Salesforce DX Project
+### 🖼️ Objetos Padrão
+- Contas
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## 👤 Integrante
 
-## Read All About It
+Foi criado um usuário para o avaliador, conforme os requisitos presentes no desafio.
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## ⚙️ Como Executar na sua máquina 
+-  Clone o projeto com o seguinte comando: 
+    ```
+    https://github.com/Ermeson23/desafio-globo.git
+    ```
+
+## 💻 Recursos Utilizados
+- [Workbench - Ferramenta utilizada Para Testes dos EndPoints Customizados](https://workbench.developerforce.com)
+    - Assinale os campos de Environment: Production
+    - API Version: (Deixar o padrão)
+    - Marque o checkbox(caixa de texto) para Aceitar os termos
+    - Clique em Login com Salesforce
+
+    - Ao efetuar o login com as credenciais da conta
+    - Escolher, no item da barra de navegação: "Utility", o valor "Rest Explorer";
+
+    - Assinalar o método HTTP correto
+    - Para testar os endpoints customizados, oferecer no valor do path: /services/apexrest/nomeDoMetodo
+    - caso seja preciso, a depender do método HTTP, inserir um corpo da requisição
+    - clicar no execute e verificar as mensagens na tela
+    - Se as mensagens são de sucesso, verificar as alterações efetuadas na Organização 
+    
+- [Salesforce](https://login.salesforce.com/)
+
+- [Trailhead](https://trailhead.salesforce.com/)
+
+- [Package Bulder](https://packagebuilder.herokuapp.com/)
