@@ -24,7 +24,11 @@ O presente documento tem o intuito de fornecer uma visão geral aos avaliadores 
 
 ## 👤 Avaliador
 
-Foi criado um usuário para o avaliador, conforme os requisitos presentes no desafio. As credenciais deste usuário foram enviadas de maneira particular.
+Foi criado um usuário para o avaliador, conforme os requisitos presentes no desafio. 
+
+- Organização: https://dbc69-dev-ed.develop.lightning.force.com
+- Login: avaliador@dbc69-dev-ed.com
+- Senha: escolasalesforce35
 
 ## ⚙️ Como Executar na sua máquina 
 -  Clone o projeto com o seguinte comando: 
