@@ -1,6 +1,6 @@
 # ✨ Desafio Globo
 O presente documento tem o intuito de orientar os avaliadores a respeito da mentalidade empreendida para a resolução do desafio proposto.
-## 👤 Integrantes
+## 👤 Integrante
 - Ermeson José Ribeiro
   ( [github](https://github.com/Ermeson23) | [linkedin](linkedin.com/in/ermeson-ribeiro-a29121212/) )
 
@@ -22,14 +22,14 @@ O presente documento tem o intuito de fornecer uma visão geral aos avaliadores 
 ### 🖼️ Objetos Padrão
 - Contas
 
-## 👤 Integrante
+## 👤 Avaliador
 
-Foi criado um usuário para o avaliador, conforme os requisitos presentes no desafio.
+Foi criado um usuário para o avaliador, conforme os requisitos presentes no desafio. As credenciais deste usuário foram enviadas de maneira particular.
 
 ## ⚙️ Como Executar na sua máquina 
 -  Clone o projeto com o seguinte comando: 
     ```
-    https://github.com/Ermeson23/desafio-globo.git
+    git clone https://github.com/Ermeson23/desafio-globo.git
     ```
 
 ## 💻 Recursos Utilizados
@@ -53,3 +53,6 @@ Foi criado um usuário para o avaliador, conforme os requisitos presentes no des
 - [Trailhead](https://trailhead.salesforce.com/)
 
 - [Package Bulder](https://packagebuilder.herokuapp.com/)
+
+## 📝 Documentação Detalhada
+- Uma documentação mais detalhada pode ser encontrada no arquivo: solucao.md

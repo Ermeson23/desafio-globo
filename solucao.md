@@ -157,3 +157,7 @@ Ademais, foi criado um usuário para o avaliador, conforme os requisitos present
 - [Salesforce](https://login.salesforce.com/)
 
 - [Package Bulder](https://packagebuilder.herokuapp.com/)
+
+
+## Observação Final
+Na elaboração desta solução, me esforcei para empregar nomes descritivos para classes, variáveis, campos, e assim por diante, com o intuito de minimizar, ou até mesmo eliminar, a necessidade de comentários adicionais, esforçando-me para escrever um código autoexplicativo.
