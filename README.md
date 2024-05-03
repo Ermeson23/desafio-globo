@@ -2,7 +2,7 @@
 O presente documento tem o intuito de orientar os avaliadores a respeito da mentalidade empreendida para a resolução do desafio proposto.
 ## 👤 Integrante
 - Ermeson José Ribeiro
-  ( [github](https://github.com/Ermeson23) | [linkedin](linkedin.com/in/ermeson-ribeiro-a29121212/) )
+  ( [github](https://github.com/Ermeson23) | [linkedin](https://linkedin.com/in/ermeson-ribeiro-a29121212/) )
 
 ## 📄 Descrição
 O presente documento tem o intuito de fornecer uma visão geral aos avaliadores a respeito das ideias e da mentalidade empreendida para a resolução do desafio proposto.
@@ -48,9 +48,9 @@ Foi criado um usuário para o avaliador, conforme os requisitos presentes no des
     - clicar no execute e verificar as mensagens na tela
     - Se as mensagens são de sucesso, verificar as alterações efetuadas na Organização 
     
-- [Salesforce](https://login.salesforce.com/)
+- [Login Salesforce](https://login.salesforce.com/)
 
-- [Trailhead](https://trailhead.salesforce.com/)
+- [Trailhead - Uma maneira divertida para aprender sobre o Salesforce](https://trailhead.salesforce.com/)
 
 - [Package Bulder](https://packagebuilder.herokuapp.com/)
 

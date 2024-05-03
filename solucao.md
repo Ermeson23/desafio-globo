@@ -2,7 +2,7 @@
 O presente documento tem o intuito de orientar os avaliadores a respeito da mentalidade empreendida para a resolução do desafio proposto.
 ## 👤 Integrante
 - Ermeson José Ribeiro
-  ( [github](https://github.com/Ermeson23) | [linkedin](linkedin.com/in/ermeson-ribeiro-a29121212/) )
+  ( [github](https://github.com/Ermeson23) | [linkedin](https://linkedin.com/in/ermeson-ribeiro-a29121212/) )
 
 ## 📄 Descrição
 O presente documento tem o intuito de orientar os avaliadores a respeito das ideias e da mentalidade empreendida para a resolução do desafio proposto.
