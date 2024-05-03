@@ -48,7 +48,7 @@ Foi criado um usuário para o avaliador, conforme os requisitos presentes no des
     - clicar no execute e verificar as mensagens na tela
     - Se as mensagens são de sucesso, verificar as alterações efetuadas na Organização 
     
-- [Login Salesforce](https://login.salesforce.com/)
+- [Login no Salesforce](https://login.salesforce.com/)
 
 - [Trailhead - Uma maneira divertida para aprender sobre o Salesforce](https://trailhead.salesforce.com/)
 

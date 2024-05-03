@@ -154,7 +154,7 @@ Ademais, foi criado um usuário para o avaliador, conforme os requisitos present
     - caso seja preciso, a depender do método HTTP, inserir um corpo da requisição
     - clicar no execute e verificar as mensagens na tela
     - Se as mensagens são de sucesso, verificar as alterações efetuadas na Organização Salesforce
-- [Salesforce](https://login.salesforce.com/)
+- [Login no Salesforce](https://login.salesforce.com/)
 
 - [Package Bulder](https://packagebuilder.herokuapp.com/)
 
