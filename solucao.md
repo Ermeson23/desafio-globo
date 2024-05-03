@@ -133,6 +133,10 @@ Para a realização desta automação, implementei uma classe chamada RemoveOldO
 
 Ademais, foi criado um usuário para o avaliador, conforme os requisitos presentes no desafio.
 
+- Organização: https://dbc69-dev-ed.develop.lightning.force.com
+- Login: avaliador@dbc69-dev-ed.com
+- Senha: escolasalesforce35
+
 ## ⚙️ Como Executar na sua máquina 
 -  Clone o projeto com o seguinte comando: 
     ```
